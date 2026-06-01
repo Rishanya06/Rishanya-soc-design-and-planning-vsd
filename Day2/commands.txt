@@ -1,0 +1,3 @@
+run_synthesis
+run_floorplan
+run_placement

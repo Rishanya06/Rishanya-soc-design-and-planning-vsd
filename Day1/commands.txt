@@ -1,0 +1,2 @@
+prep -design picorv32a
+run_synthesis
